@@ -1,0 +1,68 @@
+﻿l_english:
+#Misc
+ antarctica: "Antártida" #Continent
+ antarctica_adj: "Antártico"
+ VICTORY_POINTS_17744: " " #blank name
+ wasteland_focus: "Enfoque nacional de la Antártida"
+
+#States
+ EAST_ANTARCTICA: "Antártida Oriental"
+ ANTARCTIC_PENINSULA: "Península Antártica"
+ ENG_ANTARCTIC_PENINSULA: "Graham Land"
+ CHL_ANTARCTIC_PENINSULA: "O'Higgins Land"
+ ARG_ANTARCTIC_PENINSULA: "Tierra de San Martin"
+ USA_ANTARCTIC_PENINSULA: "Palmer Peninsula"
+ ALEXANDER_ISLAND: "Isla Alejandro I"
+ ADELIE_LAND: "Tierra Adelia"
+ FRA_ADELIE_LAND: "Terre Adélie"
+ VICTORIA_LAND: "Tierra de Victoria" #was Victoria Land
+ GEORGE_VI_SOUND: "Canal Jorge VI"
+ EAST_ELLSWORTH_LAND: "Tierra oriental de Ellsworth"
+ WEST_ELLSWORTH_LAND: "Tierra occidental de Ellsworth"
+ MARIE_BYRD_LAND: "Tierra de Marie Byrd"
+ ROSS_DEPENDENCY: "Dependencia Ross"
+ QUEEN_MAUD_LAND: "Tierra de la Reina Maud"
+ NOR_QUEEN_MAUD_LAND: "Dronning Maud Land"
+ GER_QUEEN_MAUD_LAND: "Neuschwabenland"
+ WILKES_LAND: "Tierra de Wilkes"
+ PRINCESS_ELIZABETH_LAND: "Tierra de la Princesa Isabel"
+ WEST_ANTARCTICA: "Antártida Occidental"
+ RONNE_ICE_SHELF: "Barrera de hielo Filchner-Ronne"
+ COATS_LAND: "Tierra de Coats"
+ BRUNT_ICE_SHELF: "Barrera de hielo Brunt"
+ PRINCESS_MARTHA_COAST: "Costa de la Princesa Marta"
+ AMSTERDAM_ISLAND: "St. Paul and Amsterdam Islands"
+ FRA_AMSTERDAM_ISLAND: "Îles Saint-Paul et Amsterdam"
+ SVALBARD: "Svalbard"
+ GER_SVALBARD: "Spitzbergen"
+ BOUVET_ISLAND: "Bouvet Island"
+ TRISTAN_DA_CUNHA: "Tristan da Cunha"
+ WALLIS_AND_FUTUNA: "Wallis and Futuna"
+ MARQUESAS_ISLANDS: "Marquesas Islands"
+ CLIPPERTON_ISLAND: "Clipperton Island"
+ COOK_ISLANDS: "Cook Islands"
+ PETER_I_ISLAND: "Peter I Island"
+ PALMER_LAND: "Palmer Land"
+
+#Strategic Regions
+ SCOTIA_SEA: "Scotia Sea"
+ ROSS_SEA: "Ross Sea"
+ AMUNDSEN_SEA: "Amundsen Sea"
+ WEDDEL_SEA: "Weddel Sea"
+ URVILLE_SEA: "D'Urville Sea"
+ DAVIS_SEA: "Davis Sea"
+ HAAKON_VII_SEA: "Haakon VII Sea"
+ KARA_SEA: "Kara Sea"
+ BEAUFORT_SEA: "Beaufort Sea"
+ EAST_SIBERIAN_SEA: "East Siberian Sea"
+ NORTHWEST_PASSAGES: "Northwest Passages"
+ ANTARCTICA: "Antarctica"
+
+#Antarctica Country
+ ZZZ_Antarctic_Anarchy: "Antarctic Wastes"
+ ZZZ_Antarctic_Anarchy_desc: "What little life exists in Antarctica tends to stick to the shores, where the sea provides at least some succor to their bleak lives. The closer one approaches the frozen continent's dark heart, the more inhospitable the terrain becomes. Razor sharp sastrugi, bottomless crevasses, and snow blindness all contest the existence of life. Only the newly arrived humans would be so foolish as to venture into such a place." #\n\nThe skies glare barren blue down upon these icebound fields, devoid of precipitation, as cold as the grave. Here lies the Earth's largest and most dangerous desert. Worse still, the winters here are harsher than any other: a vast all-consuming void, inky darkness presided over by distant stars. Temperatures average at negative 50 degrees Celsius exacerbated by winds that could flay a flesh bound body to shreds. As humanity stands upon the brink of nuclear annihilation, these wastes are a premonition of what world might await those unfortunate survivors of such a calamity.\n\n§QAn eternal black winter, oblivion made manifest.§!
+ ZZZ_hidden: "$ZZZ_Antarctic_Anarchy$"
+ ZZZ_no_authority: "No Authority"
+ ZZZ: ""
+ ZZZ_DEF: "Antarctica"
+ ZZZ_ADJ: "Antarctic"
